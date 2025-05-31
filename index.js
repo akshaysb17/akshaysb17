@@ -17,7 +17,7 @@ const data = {
   nickname: chalk.bold("akshaysb17"),
 
   web: chalk.green("https://akshaysb.com"),
-  blog: chalk.green("https://akshaysb.com/blog "),
+  blog: chalk.green("https://akshaysb.com/blog"),
   github: chalk.gray("https://github.com/") + chalk.white("akshaysb17"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("akshay-bharambe"),
 
