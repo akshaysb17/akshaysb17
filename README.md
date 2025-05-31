@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently doing **DevOps** and **SRE**
 - 👨‍💻 All of my projects are available at **[here][github]** or **[akshaysb.com][website]**
-- 📝 I regulary write articles on **[my blog][blog]**
-- 📫 How to reach me **akkyadwork@gmail.com**
 
 ## 😎 Connect with me
 
