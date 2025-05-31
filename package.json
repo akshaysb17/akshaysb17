@@ -1,7 +1,7 @@
 {
-  "name": "adityacprtm",
+  "name": "akshaysb17",
   "version": "1.4.8",
-  "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
+  "description": "A personal npm card for Akshay Bharambe (@akshaysb17)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,7 +12,7 @@
     "yarn": ">=1"
   },
   "bin": {
-    "adityacprtm": "index.js"
+    "akshaysb17": "index.js"
   },
   "keywords": [
     "npm",
@@ -30,5 +30,5 @@
     "inquirer": "8.2.0",
     "open": "^8.4.0"
   },
-  "repository": "https://github.com/Adityacprtm/Adityacprtm.git"
+  "repository": "https://github.com/akshaysb17/akshaysb17.git"
 }
