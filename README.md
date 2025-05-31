@@ -31,11 +31,14 @@ results across dynamic, cross-functional teams.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+---
 ## ☕ Support
 
 If my projects and content help you, consider supporting me!
 Every bit of support helps in creating more awesome DevOps projects and guides! 🙌
+
 ---
+
 [website]: https://akshaysb.com
 [blog]: https://akshaysb.com/blog
 [instagram]: https://instagram.com/akshaysb17
