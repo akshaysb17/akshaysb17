@@ -2,6 +2,11 @@
 
 - 🌱 I’m currently doing **DevOps** and **SRE**
 - 👨‍💻 All of my projects are available at **[here][github]** or **[akshaysb.com][website]**
+- DevOps, Cloud, and SRE professional with 7 years of experience in automation, CI/CD, infrastructure management,
+and deployment optimization.
+- Proven ability to reduce operational costs, enhance system reliability, and accelerate delivery pipelines.
+- Adept at thriving in both high-impact individual contributor and leadership roles, consistently delivering measurable
+results across dynamic, cross-functional teams.
 
 ## 😎 Connect with me
 
@@ -27,7 +32,11 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+## ☕ Support
 
+If my projects and content help you, consider supporting me!
+Every bit of support helps in creating more awesome DevOps projects and guides! 🙌
+---
 [website]: https://akshaysb.com
 [blog]: https://akshaysb.com/blog
 [instagram]: https://instagram.com/akshaysb17
