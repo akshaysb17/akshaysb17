@@ -13,16 +13,13 @@ clear();
 var prompt = inquirer.createPromptModule();
 
 const data = {
-  name: chalk.bold.blue("Aditya Chamim Pratama"),
-  nickname: chalk.bold("Adityacprtm"),
+  name: chalk.bold.blue("Akshay Sanjay Bharambe"),
+  nickname: chalk.bold("akshaysb17"),
 
-  web: chalk.green("https://adityacprtm.dev    "),
-  blog: chalk.green("https://adityacprtm.dev/blog "),
-  twitter: chalk.gray("https://twitter.com/") + chalk.cyan("adityacprtm"),
-  npm: chalk.gray("https://npmjs.com/") + chalk.red("~adityacprtm"),
-  github: chalk.gray("https://github.com/") + chalk.white("Adityacprtm"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("adityacprtm"),
-  npx: chalk.red("npx") + " " + chalk.white("adityacprtm"),
+  web: chalk.green("https://akshaysb.com"),
+  blog: chalk.green("https://akshaysb.com/blog "),
+  github: chalk.gray("https://github.com/") + chalk.white("akshaysb17"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("akshay-bharambe"),
 
   labelWeb: chalk.white.bold("Web:"),
   labelBlog: chalk.white.bold(" Blog:"),
@@ -46,9 +43,8 @@ const box = boxen(
     ``,
     `${data.npx}`,
     ``,
-    `${chalk.italic.bold("I am an enthusiastic newbie.")}`,
-    `${chalk.italic("There is much to learn and much more to build.")}`,
-    `${chalk.italic("So far and for this, I am very grateful.")}`,
+    `${chalk.italic.bold("I am a result-driven DevOps Professional")}`,
+    `${chalk.italic("Passionate about DevOps, Cloud, AI, Open Source, and building resilient systems that scale teams and tech")}`,
   ].join("\n"),
   {
     borderColor: "blue",
