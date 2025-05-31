@@ -1,12 +1,11 @@
 # Hi there, I'm Akshay! 👋
 
-- 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[akshaysb.com][website]**
-- DevOps, Cloud, and SRE professional with 7 years of experience in automation, CI/CD, infrastructure management,
+- 🌱 DevOps, Cloud, and SRE professional with 7 years of experience in automation, CI/CD, infrastructure management,
 and deployment optimization.
 - Proven ability to reduce operational costs, enhance system reliability, and accelerate delivery pipelines.
 - Adept at thriving in both high-impact individual contributor and leadership roles, consistently delivering measurable
 results across dynamic, cross-functional teams.
+- 👨‍💻 All of my projects are available at **[here][github]** or **[akshaysb.com][website]**
 
 ## 😎 Connect with me
 
