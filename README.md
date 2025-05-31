@@ -10,8 +10,8 @@ results across dynamic, cross-functional teams.
 ## 😎 Connect with me
 
 [![Website](https://img.shields.io/website?label=akshaysb.com&style=for-the-badge&url=https%3A%2F%2Fakshaysb.com)][website]
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ## 👨‍💻 Technologies and Tools
 
