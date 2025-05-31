@@ -23,8 +23,6 @@ const data = {
 
   labelWeb: chalk.white.bold("Web:"),
   labelBlog: chalk.white.bold(" Blog:"),
-  labelTwitter: chalk.white.bold("Twitter:"),
-  labelNpm: chalk.white.bold("  npm:"),
   labelGitHub: chalk.white.bold("GitHub:"),
   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
   labelCard: chalk.white.bold("Card:"),
@@ -36,8 +34,6 @@ const box = boxen(
     ``,
     `${data.labelWeb}  ${data.web}`,
     `${data.labelBlog}  ${data.blog}`,
-    `${data.labelTwitter}  ${data.twitter}`,
-    `${data.labelNpm}  ${data.npm}`,
     `${data.labelGitHub}  ${data.github}`,
     `${data.labelLinkedIn}  ${data.linkedin}`,
     ``,
