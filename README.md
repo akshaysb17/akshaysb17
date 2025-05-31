@@ -1,11 +1,9 @@
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Akshay! 👋
 
 - 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[adityacprtm.dev][website]**
+- 👨‍💻 All of my projects are available at **[here][github]** or **[akshaysb.com/projects][website]**
 - 📝 I regulary write articles on **[my blog][blog]**
-- 📫 How to reach me **aditya@adityacprtm.dev**
-- 👻 **npx** adityacprtm
-- ⚡ Fun fact **pevita lovers** 💘
+- 📫 How to reach me **akkyadwork@gmail.com**
 
 ## 😎 Connect with me
 
