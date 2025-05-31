@@ -26,7 +26,7 @@
 
 ## 🚀 Github Stats
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/akshaysb17/akshaysb17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <details>
   <summary> :zap: Expand me</summary>
